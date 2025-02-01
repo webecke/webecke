@@ -66,7 +66,7 @@ soon discovered how easy it would be to expand to other lakes. Thus, LakeStats!
 
 **Repository:** https://github.com/webecke/LakeStats
 
-**Live Version:** None yet - still really early development
+**Live Version: [Nothing usable publicly yet]** https://lakestats.com
 
 
 # Contact
