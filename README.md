@@ -50,7 +50,7 @@ application to solve her problem in a more modern and user-friendly way.
 **Live Version [Though very much in development]:** https://jolleybites.webecke.dev
 
 
-## PowellStats
+## LakeStats
 ![STATUS](https://img.shields.io/badge/STATUS-EARLY%20DEVELOPMENT-orange?style=for-the-badge)
 ![Type](https://img.shields.io/badge/PERSONAL%20PROJECT-2025-blue?style=for-the-badge)
 
@@ -59,11 +59,12 @@ application to solve her problem in a more modern and user-friendly way.
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-_PowellStats_ is my alternative to other websites that exist that provide data to the public about Lake Powell. The goal 
-is to provide a service that loads faster, is simpler, and easier to use than existing services. Also, it's an excuse
-to learn new technologies like Java Spring and React.
+_LakeStats_ is my alternative to other websites that exist that provide data to the public about lakes in the southwest. 
+The goal is to provide a service that loads faster, is simpler, and easier to use than existing services. Also, it's an 
+excuse to learn new technologies like Java Spring and React. Originally I was building it for Lake Powell only, but
+soon discovered how easy it would be to expand to other lakes. Thus, LakeStats!
 
-**Repository:** https://github.com/webecke/PowellStats
+**Repository:** https://github.com/webecke/LakeStats
 
 **Live Version:** None yet - still really early development
 
