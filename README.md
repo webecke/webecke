@@ -33,6 +33,29 @@ grading. It is currently in use to grade the work of 400+ students every semeste
 **Live Version:** https://cs240.click
 
 
+## LakeStats
+![STATUS](https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-yellow?style=for-the-badge)
+![Type](https://img.shields.io/badge/PERSONAL%20PROJECT-2025-blue?style=for-the-badge)
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+_LakeStats_ is my alternative to other websites that exist that provide data to the public about lakes in the southwest.
+The goal is to provide a service that loads faster, is simpler, and easier to use than existing services. Also, it's an
+excuse to learn new technologies like Java Spring and React. Originally I was building it for Lake Powell only, but
+soon discovered how easy it would be to expand to other lakes. Thus, LakeStats!
+
+**Repository:** https://github.com/webecke/LakeStats
+
+I consider this project to be in a sort of `Public Beta` at the moment. The very core functionality is implemented, but 
+there are still many features I want to add, and bugs I need to fix.
+
+**Live Version:** https://lakestats.com
+
+
+
 ## JolleyBites - _Recipe Cost Calculator_
 ![STATUS](https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-yellow?style=for-the-badge)
 ![Type](https://img.shields.io/badge/PERSONAL%20PROJECT-2024--2025-blue?style=for-the-badge)
@@ -48,25 +71,6 @@ application to solve her problem in a more modern and user-friendly way.
 **Repository:** https://github.com/webecke/JolleyBites
 
 **Live Version [Though very much in development]:** https://jolleybites.webecke.dev
-
-
-## LakeStats
-![STATUS](https://img.shields.io/badge/STATUS-EARLY%20DEVELOPMENT-orange?style=for-the-badge)
-![Type](https://img.shields.io/badge/PERSONAL%20PROJECT-2025-blue?style=for-the-badge)
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-
-_LakeStats_ is my alternative to other websites that exist that provide data to the public about lakes in the southwest. 
-The goal is to provide a service that loads faster, is simpler, and easier to use than existing services. Also, it's an 
-excuse to learn new technologies like Java Spring and React. Originally I was building it for Lake Powell only, but
-soon discovered how easy it would be to expand to other lakes. Thus, LakeStats!
-
-**Repository:** https://github.com/webecke/LakeStats
-
-**Live Version: [Nothing usable publicly yet]** https://lakestats.com
 
 
 # Contact
