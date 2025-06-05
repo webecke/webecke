@@ -36,6 +36,8 @@ will be updated regularly with new features and improvements.
 
 **Live Version:** https://lakestats.com
 
+**Project Instagram:** https://instagram.com/lake_stats (Follow to watch me build it)
+
 ## The Autograder 
 ![Status](https://img.shields.io/badge/Status-In%20Production-success?style=for-the-badge)
 ![Role](https://img.shields.io/badge/Former%20Developer-2024--2025-lightblue?style=for-the-badge)
